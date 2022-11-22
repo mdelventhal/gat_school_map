@@ -1,0 +1,6 @@
+.*
+!/.gitignore
+.streamlit/secrets.toml
+*.pyc
+*__pycache__*
+googledrive_creds.json
